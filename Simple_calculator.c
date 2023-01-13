@@ -1,8 +1,9 @@
 #include <stdio.h>
 #include <math.h>
 void operation(double, double, char);
-void main()
+void main() // ~ program to make a simple calculator.
 {
+
     double a, b;
     char op;
 
@@ -19,8 +20,9 @@ void main()
     operation(a, b, op);
 }
 
-void operation(double a, double b, char op)
+void operation(double a, double b, char op) // ^ function to perform the operations.
 {
+
     switch (op)
     {
     case '+':
@@ -43,3 +45,5 @@ void operation(double a, double b, char op)
         break;
     }
 }
+
+// & THIS CODE IS WRITTEN BY MANJUNATH MGM.
