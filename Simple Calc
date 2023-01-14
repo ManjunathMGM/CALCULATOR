@@ -56,8 +56,8 @@ void main() // ~ program to make a simple calculator.
             scanf("%lf", &b);
             break;
         }
-        // ^ Press '=' twice to end the program.
     } while (op != '=');
+// ^ Press '=' twice to end the program.
 
     if (op == '=')
         printf("DONE");
