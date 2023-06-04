@@ -12,5 +12,5 @@ _You can ignore the symbols I used in the comments of above file as they are bas
 > Batch of 2026.
 
 Feel free to reach me out - <br />
-You can mail me out [here](mailto:manjunathmajety@gmail.com) or [text me](https://www.instagram.com/man.ju.nath/) here. <br />
+You can mail me out [here](mailto:mm153@snu.edu.in) or [text me](https://www.instagram.com/man.ju.nath/) here. <br />
 :)
